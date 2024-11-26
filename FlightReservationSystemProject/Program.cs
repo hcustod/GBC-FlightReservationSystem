@@ -3,7 +3,7 @@ using System.IO;
 using System.Collections.Generic;
 using FlightReservationSystemProject;
 
-// ****** Initial Menu and Airline Coordinator Object. *******
+// ****** Initial Menu and creation/use of submenu objects. *******
 class Program
 {
  

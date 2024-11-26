@@ -1,7 +1,7 @@
 namespace FlightReservationSystemProject;
 
 using System; 
-using System.Linq;  //TODO; what does this do? why? 
+using System.Linq;
 // The System.Linq namespace provides methods like Where, Select, and ToArray for querying and manipulating data collections
 
 // TODO: Keep names as is for data structs? 
